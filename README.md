@@ -20,7 +20,7 @@ Diabetic retinopathy is one of the leading causes of blindness. Early detection 
   - Moderate  
   - Severe  
   - Proliferative DR  
-- **Source:** Kaggle / Public DR datasets  
+- **Source:** [Kaggle](https://www.kaggle.com/datasets/sachinkumar413/diabetic-retinopathy-dataset/data)
 
 ---
 
@@ -61,4 +61,5 @@ Diabetic retinopathy is one of the leading causes of blindness. Early detection 
 ```bash
 git clone [https://github.com/your-username/diabetic-retinopathy-classification.git
 cd diabetic-retinopathy-classification](https://github.com/Pant0x/diabetic-retinopathy-detection-NTI-project)
+
 
