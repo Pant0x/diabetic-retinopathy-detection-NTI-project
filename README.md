@@ -59,7 +59,7 @@ Diabetic retinopathy is one of the leading causes of blindness. Early detection 
 
 ### 🔹 Clone the repository  
 ```bash
-git clone [https://github.com/your-username/diabetic-retinopathy-classification.git
-cd diabetic-retinopathy-classification](https://github.com/Pant0x/diabetic-retinopathy-detection-NTI-project)
+git clone [https://github.com/Pant0x/diabetic-retinopathy-detection-NTI-project]
+
 
 
