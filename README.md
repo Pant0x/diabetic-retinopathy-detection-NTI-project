@@ -49,9 +49,9 @@ Diabetic retinopathy is one of the leading causes of blindness. Early detection 
 ## 📊 Results  
 | Task          | Model           | Metric   | Score   |  
 |---------------|----------------|----------|---------|  
-| Classification | EfficientNetB3 | Accuracy | 0.9927* |  
+| Classification | EfficientNetB3 | Accuracy | 0.9988 |  
 
-> ⚠️ *Replace with your actual test accuracy after training.*  
+
 
 ---
 
@@ -59,5 +59,6 @@ Diabetic retinopathy is one of the leading causes of blindness. Early detection 
 
 ### 🔹 Clone the repository  
 ```bash
-git clone https://github.com/your-username/diabetic-retinopathy-classification.git
-cd diabetic-retinopathy-classification
+git clone [https://github.com/your-username/diabetic-retinopathy-classification.git
+cd diabetic-retinopathy-classification](https://github.com/Pant0x/diabetic-retinopathy-detection-NTI-project)
+
